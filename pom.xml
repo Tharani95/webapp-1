@@ -25,13 +25,13 @@
 <distributionManagement>
     <repository>
         <id>central</id>
-        <name>a0fkoynj4k04u-artifactory-primary-0-releases</name>
-        <url>https://vinay74.jfrog.io/artifactory/default-libs-release-local</url>
+        <name>snapshot</name>
+        <url>http://3.109.139.250:8081/artifactory/libs-release-local/</url>
     </repository>
     <snapshotRepository>
         <id>snapshots</id>
-        <name>a0fkoynj4k04u-artifactory-primary-0-snapshots</name>
-        <url>https://vinay74.jfrog.io/artifactory/default-libs-snapshot-local</url>
+        <name>snapshot</name>
+        <url>http://3.109.139.250:8081/artifactory/libs-snapshot-local</url>
     </snapshotRepository>
 </distributionManagement>
 
